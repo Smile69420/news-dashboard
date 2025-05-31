@@ -3,4 +3,5 @@ python-dotenv
 supabase
 beautifulsoup4
 newspaper3k
-streamlit 
+streamlit
+pandas 
