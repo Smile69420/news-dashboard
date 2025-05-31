@@ -3,4 +3,4 @@ python-dotenv
 supabase
 beautifulsoup4
 newspaper3k
-streamlit # If deploying this dashboard
+streamlit 

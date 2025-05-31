@@ -87,7 +87,41 @@ MCCIA_RELEVANCE_KEYWORDS = [
     # Specific MCCIA activities/interests
     "mccia event", "mccia initiative", "mccia report", "mccia survey",
     "business delegation", "trade fair", "exhibition", "conference maharashtra",
-    "ease of doing business", "sectoral growth", "economic outlook maharashtra"
+    "ease of doing business", "sectoral growth", "economic outlook maharashtra",
+    
+    "manufacturing plant", "industrial production", "factory", "plant operations", "oem",
+    "industrial automation", "production line", "supply chain manufacturing", "lean manufacturing",
+    "heavy industry", "light industry", "industrial machinery", "make in india", "make in maharashtra",
+
+    "farm", "farmer", "farming", "crop", "agri", "agriculture policy", "agribusiness",
+    "horticulture", "irrigation", "apmc", "msp", "fertilizer", "pesticide",
+    "food processing", "dairy", "livestock", "fisheries", "rural development",
+
+    "export", "import", "international trade", "exim", "foreign investment",
+    "trade agreement", "fta", "customs", "tariff", "duties", "wto",
+    "logistics international", "shipping", "global value chain", "trade balance", "forex",
+
+    "msme", "sme", "small and medium enterprise", "micro enterprise", "small scale industry",
+    "msme policy", "sme finance", "msme support", "udyog aadhaar", "msme registration", "startup india",
+
+    "automotive industry", "auto sector", "vehicle manufacturing", "car production", "two-wheeler",
+    "commercial vehicle", "electric vehicle", "ev policy", "auto components", "auto ancillary",
+    "automobile", "automotive supply chain",
+
+    "technology", "innovation", "startup ecosystem", "r&d", "research and development",
+    "it services", "software", "saas", "ai", "ml", "iot", "blockchain", "fintech",
+    "biotech", "pharma", "healthtech", "edtech", "deep tech", "incubation", "accelerator", "intellectual property",
+
+    "women entrepreneurs", "female founders", "women in business", "women-led startups", "women empowerment",
+    "she leads", "women's economic development", "gender equality business", "women in tech", "women in manufacturing",
+
+    "government policy", "regulatory changes", "policy announcement", "draft policy", "public consultation",
+    "government notification", "policy impact", "legislative update", "economic policy", "trade policy",
+    "industrial policy", "budget announcement", "tax reform", "gst council",
+
+    "economy", "economic growth", "gdp", "inflation", "fiscal policy", "monetary policy",
+    "market trend", "business sentiment", "policy update", "government scheme", "budget allocation",
+    "corporate news", "mergers", "acquisitions", "financial results" # if very general
 ]
 
 MCCIA_SECTOR_KEYWORDS_MAP = {
